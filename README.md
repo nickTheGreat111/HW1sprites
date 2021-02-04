@@ -2,4 +2,4 @@
 hw1
   Note to the viewer :
     Homework 1 sftwareArchDesign using b y o r color sprites. NS-^ EW-v  b(strategy patter), r(adapter pattern).
-    
+    next update will be from wednesday with grebe
